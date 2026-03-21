@@ -41,27 +41,3 @@ app.MapControllers();
 app.Run();
 
 
-/*
- * bvdf,bkdf vjdfb kb vk
- * mnjhfjkdvkjkjvjk kfkjdbjkfkj
- * kljvfd vfkjvkj jkfvjkv
- * lkbdf bklbv
- * b fkbfbnfklbn nbkdn kldv nkfd bf b b jfkb fdb
- *  kfjdbjkfkljknklfd fvfd
- *  t hb pbf
- *  dfoigv ;lj lfhvil 
- *  fkjdskgk nblkdfnkjfhbdrldrsiodndfjklnvb;oddhbb
- *  goiiojr; hszdfhbhth ior heh fdklbnfd
- *  fdfkjnbkjfdnbklnlkd; jrghbdb nb dbbvohoigbsf dbfjbn
- *  lkrhiorepohvhjretn 54uofd f
- *  dfgfd kfdb fd biohgrklg9509uy0944t4u4y94u4t4 hynlkre  ;lyt 
- *  t 4yy 5kjbyjuiy 
- *   fgng
- *   jhnrtfgjnfgnfgnf
- *   gm 
- *   n ngfnmlkfgdk;l kj bn
- *   fgngfnb lgffg
- *   gfnfg ygh fg
- *   jnfgn
- *   j
-*/
