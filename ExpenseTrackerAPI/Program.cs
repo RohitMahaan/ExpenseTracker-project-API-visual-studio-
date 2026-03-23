@@ -51,9 +51,4 @@ app.Run();
  * jkvlbklnenrov  vnvrnno kvnkllklkvv vlk
  * vkjbjkkjnvnendv
  * blf doblkfdblkfdv
- *  mkjvndmlk kll;tr
- *  b bm nbf
- *  vklblrtnlbkmnslb sbgfb
- *   oiobnrlk'nblkmn
- *   ngfdns grvsf
- */
+*/
