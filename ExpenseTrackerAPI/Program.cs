@@ -40,16 +40,3 @@ app.MapControllers();
 
 app.Run();
 
-/*
- * skjdbkj
- * bfdlkbndfb
- * mnsdjvndf,
- * hbfdhbdhbh
- * bngfngfbn bg
- * bnfbgb fgb dthwsrgy rh trhbrtgd fb
- * gtrhbflmkn bjklkbgrt brb
- * jkvlbklnenrov  vnvrnno kvnkllklkvv vlk
- * vkjbjkkjnvnendv
- * blf doblkfdblkfdv
- * skjsdv dddddddddd sasasasasasasasasasa eeeeeeeeeeef  sdddddddddf  asfa fffffffffffffffffff adfdfdfdfdfdfdfdfawrdf
-*/
